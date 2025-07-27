@@ -16,7 +16,7 @@ const timelineData = [
     date: '2022 - Present',
     icon: (
       <img
-        src="/images/mit-logo.jpg"
+        src="images/mit-logo.jpg"
         alt="MIT Campus"
         style={{ width: '100%', height: '100%', objectFit: 'cover', borderRadius: '50%' }}
       />
@@ -31,7 +31,7 @@ const timelineData = [
     date: 'June 2024 - July 2024',
     icon: (
       <img
-        src="/images/logo1.jpeg"
+        src="images/logo1.jpeg"
         alt="Harpy Aerospace"
         style={{ width: '100%', height: '100%', objectFit: 'cover', borderRadius: '50%' }}
       />
@@ -46,7 +46,7 @@ const timelineData = [
     date: 'May 2025 - July 2025',
     icon: (
       <img
-        src="/images/fid-logo.jpg"
+        src="images/fid-logo.jpg"
         alt="Fidelity Investments"
         style={{ width: '100%', height: '100%', objectFit: 'cover', borderRadius: '50%' }}
       />

@@ -37,17 +37,17 @@ const Hero = () => {
                     handle="javicodes"
                     status="Online"
                     contactText="Contact Me"
-                    avatarUrl="/images/hero-banner.png"
+                    avatarUrl="images/hero-banner.png"
                     showUserInfo={true}
                     enableTilt={true}
                     onContactClick={() => console.log('Contact clicked')}
                     /> */}
                 {/* <figure className="w-full max-w-[480px] ml-auto bg-gradient-to-t from-sky-400 via-25% via-sky-400/40 to-65% rounded-[60px] overflow-hidden">
-                    <img src="/images/hero-banner.png" width={656} height={800} alt="It's my pic" className="w-full" />
+                    <img src="images/hero-banner.png" width={656} height={800} alt="It's my pic" className="w-full" />
                 </figure> */}
                 <figure className="w-full max-w-[400px] ml-auto bg-gradient-to-t from-sky-400 via-25% via-sky-400/40 to-65% rounded-[60px] overflow-hidden">
                 <img
-                    src="/images/hero-banner-3.png"
+                    src="images/hero-banner-3.png"
                     width={656}
                     height={800}
                     alt="It's my pic"

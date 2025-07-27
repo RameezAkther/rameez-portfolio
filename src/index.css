@@ -2,6 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+.vertical-timeline-element-content {
+  animation: none !important;
+  transform: none !important;
+  opacity: 1 !important;
+}
+
 /* base */
 
 html {

@@ -3,37 +3,37 @@ import ProjectCard from './ProjectCard';
 
 const projects = [
   {
-    imgSrc: '/images/project-1-1.png',
+    imgSrc: 'images/project-1-1.png',
     title: 'Real Time Movie Review Analytics',
     tags: ['API', 'Sentimental Analysis', 'Data Analytics', 'MVC'],
     projectLink: 'https://github.com/RameezAkther/realtime_movie_review_analytics.git'
   },
   {
-    imgSrc: '/images/project-2-2.png',
+    imgSrc: 'images/project-2-2.png',
     title: 'CropInsights Agricultre Dashboard',
     tags: ['Data Visualization', 'Dashboard', 'Interactive', 'Python'],
     projectLink: 'https://github.com/RameezAkther/CropInsights.git'
   },
   {
-    imgSrc: '/images/project-3-3.png',
+    imgSrc: 'images/project-3-3.png',
     title: 'Gender Classification Using CNN',
     tags: ['Deep Learning', 'CNN', 'Image Processing', 'Neural Network'],
     projectLink: 'https://github.com/RameezAkther/GenderClassificationUsingCNN.git'
   },
   {
-    imgSrc: '/images/project-4-4.png',
+    imgSrc: 'images/project-4-4.png',
     title: 'Cold Chain Logistics',
     tags: ['Web-App', 'IoT', 'MQTT', 'Cloud'],
     projectLink: 'https://github.com/codewithsadee-org/wealthome'
   },
   {
-    imgSrc: '/images/project-5-5.png',
+    imgSrc: 'images/project-5-5.png',
     title: 'Neural Style Transfer',
     tags: ['Transfer Learning', 'Image Processing', 'Deep Learning', 'Web-App'],
     projectLink: 'https://github.com/RameezAkther/Neural-Style-Transfer.git'
   },
   {
-    imgSrc: '/images/project-6-6.png',
+    imgSrc: 'images/project-6-6.png',
     title: 'Offline Signature Verification',
     tags: ['Siamese Network', 'Transfer Learning', 'Yolo-V8s', 'Deep Learning'],
     projectLink: 'https://github.com/RameezAkther/offline-signature-verification.git'

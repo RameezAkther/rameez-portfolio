@@ -4,62 +4,62 @@ import SkillCard from './SkillCard';
 
 const skillItem = [
   {
-    imgSrc: '/images/python.svg',
+    imgSrc: 'images/python.svg',
     label: 'Python',
     desc: 'Primary Language'
   },
   {
-    imgSrc: '/images/java.svg',
+    imgSrc: 'images/java.svg',
     label: 'Java',
     desc: 'Programming Language'
   },
   {
-    imgSrc: '/images/c.svg',
+    imgSrc: 'images/c.svg',
     label: 'C++',
     desc: 'Programming Language'
   },
   {
-    imgSrc: '/images/html.svg',
+    imgSrc: 'images/html.svg',
     label: 'HTML',
     desc: 'Markup Language'
   },
   {
-    imgSrc: '/images/css3.svg',
+    imgSrc: 'images/css3.svg',
     label: 'CSS',
     desc: 'Styling'
   },
   {
-    imgSrc: '/images/javascript.svg',
+    imgSrc: 'images/javascript.svg',
     label: 'JavaScript',
     desc: 'Interaction'
   },
   {
-    imgSrc: '/images/react.svg',
+    imgSrc: 'images/react.svg',
     label: 'React',
     desc: 'Framework'
   },
   {
-    imgSrc: '/images/tailwindcss.svg',
+    imgSrc: 'images/tailwindcss.svg',
     label: 'TailwindCSS',
     desc: 'User Interface'
   },
   {
-    imgSrc: '/images/flask.svg',
+    imgSrc: 'images/flask.svg',
     label: 'Python Flask',
     desc: 'Backend'
   },
   {
-    imgSrc: '/images/spring-boot-1.svg',
+    imgSrc: 'images/spring-boot-1.svg',
     label: 'Java SpringBoot',
     desc: 'Java Framework'
   },
   {
-    imgSrc: '/images/database.svg',
+    imgSrc: 'images/database.svg',
     label: 'SQL',
     desc: 'SQL Database'
   },
   {
-    imgSrc: '/images/mongodb.svg',
+    imgSrc: 'images/mongodb.svg',
     label: 'MongoDB',
     desc: 'NoSQL Database'
   },
