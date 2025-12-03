@@ -31,7 +31,7 @@ const courseDetails = [
     title: "AWS Training",
     subtitle: "Amazon • Credly",
     desc: "Introduced to core AWS services, cloud computing concepts, and basic architectural best practices.",
-    imgSrc: "images/credly.jpg",
+    imgSrc: "images/credly.png",
     certificateLink:
       "https://www.credly.com/badges/ca85cb5c-b39b-4c73-a54e-05a7f3c55050/linked_in_profile",
   },
@@ -47,7 +47,7 @@ const courseDetails = [
     title: "Essential Business Communication Skills Professional Certificate",
     subtitle: "LinkedIn Learning Path • LinkedIn Learning",
     desc: "Developed key business communication skills including writing, presentations, and interpersonal communication in professional settings.",
-    imgSrc: "images/coursera.png",
+    imgSrc: "images/linkedin.png",
     certificateLink: "https://www.linkedin.com/learning/certificates/75c2fe430348fe0f9baf5bcaa86ffbe6da62ccbd17e153f4cef5aab9f3e4b092",
   },
 ];
